@@ -9,6 +9,7 @@ This repository documents my journey into ML Engineering, Cloud-Based Deployment
    - Week 2: Model Building and Evaluation
    - Week 3: ML Pipeline Creation
    - Week 4: Finalizing and Documenting the Project
+   - **Goal**: Develop an end-to-end ML pipeline for a classification problem.
 
 2. **Month 2: Cloud-Based Deployment**
    - Details will be added here as I progress.
@@ -37,10 +38,6 @@ This repository documents my journey into ML Engineering, Cloud-Based Deployment
    pip install -r requirements.txt
    ```
 
-## 📊 Current Project: Month 1 - ML Engineering Fundamentals
-**Goal**: Develop an end-to-end ML pipeline for a classification problem.
-
----
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
