@@ -24,6 +24,7 @@ This repository documents my journey into ML Engineering, Cloud-Based Deployment
 - **/src**: Custom modules (e.g., data preprocessing, model training).
 - **README.md**: Overview of the repository and roadmap.
 - **requirements.txt**: List of required libraries for easy setup.
+- **.gitignore**: To keep unnecessary files out of your repository.
 
 ## 🚀 Getting Started
 
