@@ -30,8 +30,8 @@ This repository documents my journey into ML Engineering, Cloud-Based Deployment
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ml-engineering-journey.git
-   cd ml-engineering-journey
+   git clone https://github.com/chizkidd/ml-engineering.git
+   cd ml-engineering
    ```
 
 2. Install dependencies:
