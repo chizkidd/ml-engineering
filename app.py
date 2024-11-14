@@ -1,5 +1,5 @@
 import os
-print("Model file exists:", os.path.exists('models/final_iris_SVC_pipeline.pkl'))
+print("Model file exists:", os.path.exists('models/final_iris_kNN_pipeline.pkl'))
 
 from flask import Flask, request, jsonify, render_template
 import joblib
@@ -9,7 +9,7 @@ import pandas as pd
 app = Flask(__name__)
 
 # Load the pre-trained pipeline model
-model = joblib.load('models/final_iris_SVC_pipeline.pkl')
+model = joblib.load('models/final_iris_kNN_pipeline.pkl')
 
 # Dictionary to map class labels to species names
 species_dict = {0: 'Setosa', 1: 'Versicolor', 2: 'Virginica'}
